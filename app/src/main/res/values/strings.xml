@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="emptyString" />
+    <string name="make">Make</string>
+    <string name="model">Model</string>
+    <string name="color">Color</string>
+    <string name="engine">Engine</string>
+    <string name="transmission_type">Transmission Type</string>
+    <string name="title_status">Title Status</string>
+    <string name="parcelable">Parcelable</string>
+    <string name="Bundle">Bundle</string>
+    <string name="year">year</string>
+    <string name="instructions">Please Input your car\'s information in the fields to the left. ACTIVITY 2</string>
+    <string name="instructions2">Please Input your car\'s information in the fields to the left. ACTIVITY 3</string>
+    <string name="by_bundel">by bundel</string>
+</resources>
